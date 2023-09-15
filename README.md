@@ -1,5 +1,5 @@
 # N-Queens Puzzle Solver Using Memetic Algorithm
-
+![queens gif](Queens.gif)
 This Jupyter Notebook contains Python code for solving the N-Queens puzzle using a memetic algorithm. The N-Queens puzzle is a classic combinatorial problem where the goal is to place N chess queens on an N×N chessboard so that no two queens threaten each other. In other words, no two queens can share the same row, column, or diagonal.
 
 ## Table of Contents
